@@ -100,5 +100,5 @@ My **current pinned repositories** represent my present professional focus on ba
 For professional inquiries related to backend or systems engineering:
 
 - Email: nkontopoul@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/nik-k-78204952/)
+- LinkedIn: https://www.linkedin.com/in/nik-k-78204952/
 - GitHub: https://github.com/z1000biker
