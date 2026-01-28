@@ -1,4 +1,4 @@
-# z1000biker
+# Nik Kontopoulos aka z1000biker
 
 ## Backend & Systems Engineer
 
@@ -90,7 +90,7 @@ My **current pinned repositories** represent my present professional focus on ba
 
 ## Location & Work
 
-- I am Based in Greece looking for remote/hybrid jobs in NA/Central+North EU/UK. Possibility to relocate. I am NOT interested in openings in Greece.
+- I am based in Greece looking for remote/hybrid jobs in NA/Central+North EU/UK. Possibility to relocate. I am NOT interested in openings in Greece.
 - Open to technically challenging backend and systems work.
 
 ---
