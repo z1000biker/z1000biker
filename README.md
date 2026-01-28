@@ -1,4 +1,4 @@
-# Nik Kontopoulos aka z1000biker
+# Nik Kontopoulos a.k.a. z1000biker
 
 ## Backend & Systems Engineer
 
@@ -99,6 +99,6 @@ My **current pinned repositories** represent my present professional focus on ba
 
 For professional inquiries related to backend or systems engineering:
 
-- Email: nkontopoul@gmail.com
 - LinkedIn: https://www.linkedin.com/in/nik-k-78204952/
+- Email: nkontopoul [at] gmail [dot] com
 - GitHub: https://github.com/z1000biker
