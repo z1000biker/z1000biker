@@ -1,8 +1,8 @@
 # Nik Kontopoulos a.k.a. z1000biker
 
-## Backend & Systems Engineer
+## Backend, IoT & Systems Engineer
 
-Backend and systems engineer working on high-integrity, real-time, and regulated software systems.  
+Backend, IoT and systems engineer working on high-integrity, real-time, and regulated software systems.  
 My work focuses on correctness, determinism, and clear system boundaries, particularly in domains where reliability, auditability, and compliance are essential.
 
 I design and build backend systems intended for real operational environments, having a security orientation and not demonstrations.
