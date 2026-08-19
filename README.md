@@ -2,6 +2,38 @@
 
 ## Technical Researcher | AI, Cybersecurity, Systems & Digital Verification
 
+```text
+                    ..............                          nik@z1000biker
+              ..::--=---------==-::.                        ────────────────────────────────────────────────────
+            .:-===+%%%+#=#==+#%@@*=-:.                      Name      Nik Kontopoulos a.k.a. z1000biker
+          .-==*@@@@@@@@@@@@%@@@@@%#*-=:.                    Role      Technical Researcher / Systems Engineer
+         .-=@@@@@@@@##@@@%@@%@%@@@@@@@--:.                  Focus     AI / Cybersecurity / Digital Verification
+         --@@@@@@@@@@@%@@@%@@#*+++++%@@%=:.                 
+        .=@@@@***********##**+++===+++#@@+.                 Research  Information integrity / evidence tracing
+        :+@@*#*++=+++++++++++===-----=+-#-:                           Claim verification / temporal consistency
+        -%@**==-===============--------=-+:.                          Analyst-assisted decision support
+       .=@+*=-===++++=========+=======-:==+:                
+       :-@++-====================----==--=%:.               Systems   Backend / distributed / event-driven
+       -*@*======+++++++++++=++++++++==--+@+:               Security  Compliance-aware / auditable systems
+:::.  .=@@++=++*********++++++******+++===*=:               Telecom   SDR / RF / satellite communications / IoT
+-------+@++++++#@@@@@@@%*#***#%@@@@@@@%===-*:.              
+*##%++*+@*++***#%@@@@@@@@%*+%@@@@@%%##*+*=-==:.   ....      Projects  EvidenceTrace / FIX Crypto Surveillance
+##@@@@%***++#*@@@@@@@@@@@****@@@@@@@@@@#*==-+*. ..  ..                CRADSS / RTLSDR4Radar
+%@@@@@@@*+++*@%####%@@@%#*+++*@@@%####***===@@:                       Event-Driven Prediction Market
+@@@@@@@%*++++*****######*+==++*#****+++++==#@-:             
+%@@@@@@@#*+++++++***##**++===++*#**+++=+==-%-:              Location  Greece
+%@@@@@%@#*****+++***#@##***+++*+%***++==+=--:.              Work      Remote / hybrid / relocation
+%@@@@@@@@#+++++++**#@@####******@@***+====-:. .::..:.       
+%@@%@@@@@#++++++*#*@@%#@@@@@@@@*#%@#**+==+-:....-:. ::      GitHub    github.com/z1000biker
+@@%@@@@@@#++*++**%@%%%%%%%%@@####%#@@*++++--:.....   .      
+@@@%%%@@@%*+++**@@%%%#%%%%%%#####%@%@@*+=++-....... ..      
+%@@@%%%@@###***##%@@@@%@@@@#%%#%@%%@%#*+*#@*=....:....      
+%%@@@@@@@@@###*##%%%%##%%%%%#######%%#**%@@@+=....::::      
+%%%@@@@@@@@@####%%#######@%#%#*****####%#@@@@+-......       
+%@%%%%%@@@@@@@@%%%%####%#%@%%#*#***###%#@@@%@+*=--:...      
+@@@%%%%%%%@@@@@@@@%##########******#%@@@@@@@@@@@@#+:.       
+```
+
 Technical researcher and systems engineer working across AI, cybersecurity, backend systems, telecommunications and digital verification.
 
 My work focuses on high-integrity systems, evidence-aware analysis, correctness, auditability and clear system boundaries, particularly in environments where reliability, traceability, security and compliance matter.
@@ -26,10 +58,10 @@ Current areas of interest include:
 - transparent handling of uncertainty and model disagreement
 
 ### EvidenceTrace
+
 Open-source analyst-assisted claim verification workbench focused on claim decomposition, prior fact-check discovery, temporal consistency and transparent human review.
 
-Repository:
-https://github.com/z1000biker/evidencetrace
+Repository: [https://github.com/z1000biker/evidencetrace](https://github.com/z1000biker/evidencetrace)
 
 ---
 
@@ -54,71 +86,78 @@ https://github.com/z1000biker/evidencetrace
 ## Selected Professional Projects
 
 ### EvidenceTrace
+
 Open-source analyst-assisted claim verification workbench.
 
 Designed to support structured verification rather than simplistic fake-or-true classification. Current capabilities include claim decomposition, prior fact-check discovery, temporal consistency checking and transparent analyst review.
 
 The project is being developed around the principle that machine-generated assessments are decision-support signals rather than proof.
 
-https://github.com/z1000biker/evidencetrace
+[https://github.com/z1000biker/evidencetrace](https://github.com/z1000biker/evidencetrace)
 
 ---
 
 ### FIX Crypto Surveillance
+
 FIX-native market surveillance engine for crypto trading venues.
 
 Designed for regulator-grade environments, combining real-time gRPC pipelines, explainable machine learning and structured case management to identify suspicious trading behaviour, market abuse indicators and potential compliance violations.
 
 The project emphasizes traceability, analyst review and auditable decision support.
 
-https://github.com/z1000biker/fix-crypto-surveillance-
+[https://github.com/z1000biker/fix-crypto-surveillance-](https://github.com/z1000biker/fix-crypto-surveillance-)
 
 ---
 
 ### CRADSS
+
 Cybersecurity Regulatory Applicability Decision Support System.
 
 Supports structured analysis of regulatory applicability and mapping of requirements to technical controls. Focuses on transparent decision logic, traceable reasoning and compliance-oriented security analysis.
 
-https://github.com/z1000biker/CRADSS
+[https://github.com/z1000biker/CRADSS](https://github.com/z1000biker/CRADSS)
 
 ---
 
 ### RTLSDR4Radar
+
 Low-level software-defined radio pipeline for radar signal acquisition and processing.
 
 Emphasizes real-time data ingestion, signal integrity and careful engineering at the hardware-software boundary.
 
 Relevant research interests include technical verification of claims involving RF systems, communications, interference, signal behaviour and telecommunications infrastructure.
 
-https://github.com/z1000biker/rtlsdr4radar
+[https://github.com/z1000biker/rtlsdr4radar](https://github.com/z1000biker/rtlsdr4radar)
 
 ---
 
 ### Event-Driven Prediction Market
+
 Backend system for aggregating probabilistic beliefs about future outcomes in an event-driven market.
 
 Focuses on real-time state management, deterministic resolution logic, market integrity and scalable backend coordination under concurrent activity.
 
-https://github.com/z1000biker/event-driven-prediction-market
+[https://github.com/z1000biker/event-driven-prediction-market](https://github.com/z1000biker/event-driven-prediction-market)
 
 ---
 
 ### Dental Assistant Architecture
+
 System design and backend architecture documentation for a secure web application supporting dental clinic workflows.
 
 Covers backend APIs, role-based access control, data isolation and scalable SaaS design patterns in a regulated healthcare context.
 
-https://github.com/z1000biker/dental-assistant-architecture
+[https://github.com/z1000biker/dental-assistant-architecture](https://github.com/z1000biker/dental-assistant-architecture)
 
 ---
 
 ### PharmaNegotiation
+
 Negotiation agent for medical supplies procurement.
 
 Implements structured negotiation logic with emphasis on determinism, auditability and correctness in regulated medical supply chains.
 
-https://github.com/z1000biker/pharmanegotiation
+[https://github.com/z1000biker/pharmanegotiation](https://github.com/z1000biker/pharmanegotiation)
 
 ---
 
@@ -180,6 +219,6 @@ My main interests are technically demanding positions involving:
 
 For professional inquiries related to technical research, digital verification, AI, cybersecurity, backend systems or information integrity:
 
-- LinkedIn: https://www.linkedin.com/in/nik-k-78204952/
+- LinkedIn: [https://www.linkedin.com/in/nik-k-78204952/](https://www.linkedin.com/in/nik-k-78204952/)
 - Email: nkontopoul [at] gmail [dot] com
 - GitHub: https://github.com/z1000biker
